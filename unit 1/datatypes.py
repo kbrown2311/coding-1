@@ -1,0 +1,1 @@
+# string is a block of characters wrapped in q
