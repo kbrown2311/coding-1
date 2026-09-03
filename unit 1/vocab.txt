@@ -21,3 +21,5 @@ RAM- Random Access Memory.  The short term memory of your computer that holds an
 INTEGERS- datatypes that are just whole numbers, or numbers without decimal point.
 
 FLOATS- A number with a decimal.
+
+Variable- A container that stores data. you can name a variable anything you want, so long as it is descriptive.
