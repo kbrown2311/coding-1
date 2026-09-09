@@ -1,0 +1,6 @@
+# Assignment Operators- are used to assign values to variables.
+# key / value pairing is used to assign values to variables. The assignment operator is represented by the equal sign (=).
+# Arithmetic Operators- are used to perform mathematical operations on numeric values. The arithmetic operators include addition (+), subtraction (-), multiplication (*), division (/), modulus (%), exponentiation (**), and floor division (//). 
+# Comparison Operators- are used to compare values. The comparison operators include equal to (==), not equal to (!=), less than (<), greater than (>), less than or equal to (<=), and greater than or equal to (>=).
+# print is a function that outputs the specified message to the console or terminal. It can be used to display text, variables, or the results of expressions. The print function can take multiple arguments and can format the output using various formatting options.
+# Comparison operators are used to compare two values and return a boolean result (True or False). The comparison operators include equal to (==), not equal to (!=), less than (<), greater than (>), less than or equal to (<=), and greater than or equal to (>=).
