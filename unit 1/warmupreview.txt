@@ -1,2 +1,4 @@
 Float, Integers, string, and boolean.
-A code repository 
+A code repository is somethings stores code.
+input
+

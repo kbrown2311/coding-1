@@ -1,3 +1,3 @@
-Kaden
-grade 10
-"fav class" - math
+# Kaden
+# grade 10
+# "fav class" - math
