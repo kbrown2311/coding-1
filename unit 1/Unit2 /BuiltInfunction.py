@@ -11,3 +11,6 @@
 price = 134.98  
 print (int("134.98"))
 print (int(price))  
+
+# float() a function that will change any datatype to a float data type.
+
