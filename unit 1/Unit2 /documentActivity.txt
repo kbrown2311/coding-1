@@ -1,0 +1,15 @@
+Please write your full name and class period
+Kaden Brown | 1st
+
+1. In your own words, describe what documentation is?
+A documentation is place where you can type.
+
+
+2. If you were working on a game with a large team of developers, provide 3 reasons why having good documentation would be beneficial to building the game.
+ First, reason is so people can understand what I say and what goes in right place. Second I want them to know 
+
+3. What's the difference between external and internal documentation? 
+Internal is inside the organization and external is outside of the organization.
+
+
+4. Do you need to know how to code to read code documentation? briefly explain why or why not
