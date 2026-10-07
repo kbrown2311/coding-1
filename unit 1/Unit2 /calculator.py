@@ -1,6 +1,5 @@
 # step 1: create a function that will add 2 numbers together
 
-
 # step 2: the numbers should be typed in by the user
 
 # function definition
