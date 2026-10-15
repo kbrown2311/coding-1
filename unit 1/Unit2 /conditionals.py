@@ -49,32 +49,31 @@ def calculate_subtract():
 calculate_subtract()
 
 
-def calculatorMain():
-    print('1 = addition,)
-    print('2 = subtraction,)
-    print('3 = multiplication')
-    print('4 = division')
-
-
-
+#def calculatorMain():
+print()
+print(2 = subtraction,)
+print('3 = multiplication')
+print('4 = division')
         
-    If userSelects == 1, 
-        calculate_add()
+     calculate_add()
     elif userSelects == 2, 
         calculate_subtract()
     elif userSelects == 3,
-        calculate_multiply()
+       calculate_multiply()
     elif userSelects == 4,
         calculate_divide()
- 
+   
 def movieTicket():
-    age = int(input("Please enter your age: "))
 
-if they are younger than 7 its 8.00
-print("your ticket is $8.00")
-if they are between 7 to 20 its 12.00
-print("your ticket is $12.00")
-if they are between 21 to 60 its 20.00
-print("your ticket is $20.00")  
-if they are older than 60 and above its free/0.00
-print("your ticket is free!")
+    age = int(input("Welcome to the movie theater. How old are you? "))
+    if userAge <= 7:
+        print("Your ticket is $8.00")
+    elif 7 <= userAge <= 20:
+        print("Your ticket is $12.00")
+    elif 21 >= userAge <= 60:
+        print("Your ticket is $20.00")
+    elif userAge >= 61:
+        print("Your ticket is free!")
+     else:
+        print("Sorry there was a error.")   
+def movieTicket():
