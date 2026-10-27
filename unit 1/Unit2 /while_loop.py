@@ -5,27 +5,26 @@
 
 # while loop a type of loop that repeats a block of code as long as a specified condition is true.
 
+# While loops will ALWAYS run unless you change the condition
+# to False or use a break statement to exit the loop.
 
-# syntax
-# if/ else and while are all functions.
-#while 2+2 == 4:
-    #print("The program is running...")
-    #num=input("Enter a number: ")
-# while looop will ALWAYS run unless you change the condition! 
-# to false or use a break statement to exit the loop.
-
-# def gussing_game():
-# attempts = 3    
- #   guess = int(input())
-# if attempts == 0:
-   # print ("GAME OVER - RAN OUT OF ATTEMPTS")
-#guessinggame():
+ def gussing_game():
+ syntax
+ if/ else and while are all functions.
+while 2+2 == 4:
+    print("The program is running...")
+    num=input("Enter a number: ")+
+   attempts = 3    
+   guess = int(input())
+ if attempts == 0:
+    print ("GAME OVER - RAN OUT OF ATTEMPTS")
+gussing_game()
 
 
 def passwordsReset():
    attempts = 2
    correctPw = '123abcde'
-   userPwAttempts = input("please type in password")
+   UserPwAttempts = input("please type in password")
 if attempts >= 0
     while userpwAttempts != correctPw:
       
