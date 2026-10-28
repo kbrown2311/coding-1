@@ -8,16 +8,17 @@
 # While loops will ALWAYS run unless you change the condition
 # to False or use a break statement to exit the loop.
 
- def gussing_game():
- syntax
- if/ else and while are all functions.
-while 2+2 == 4:
+def gussing_game():
+     syntax
+    if / else and while are all functions.
+  while 2+2 == 4:
     print("The program is running...")
     num=input("Enter a number: ")+
    attempts = 3    
    guess = int(input())
- if attempts == 0:
+  if attempts == 0:
     print ("GAME OVER - RAN OUT OF ATTEMPTS")
+
 gussing_game()
 
 
@@ -25,17 +26,17 @@ def passwordsReset():
    attempts = 2
    correctPw = '123abcde'
    UserPwAttempts = input("please type in password")
-if attempts >= 0
-    while userpwAttempts != correctPw:
+    if attempts >= 0
+        while userpwAttempts != correctPw:
       
-      print("Sorry, wrong password")
-      print("please try again".)
-      attempts -= 1
-      print("you have this amount of attemps left:") + str(attempts))
-      userPwAttempts = input("please type in your password: ")
+        print("Sorry, wrong password")
+        print("please try again".)
+        attempts -= 1
+        print("you have this amount of attemps left:") + str(attempts))
+        userPwAttempts = input("please type in your password: ")
     else:
-        print("locked")
+            print("locked")
     
     print("you are now logged in. ")
-
-     passwordsReset
+   
+passwordsReset():
