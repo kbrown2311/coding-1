@@ -17,6 +17,7 @@ for number in range(1,5):
 # LIST --> a collection type that acts as a container for
 # multiple data types
 
+
 foodItem_1 = "apple"
 
 groceryList = ["apples", "oranges","water","chips","ground beef"]
