@@ -33,6 +33,15 @@ def diceGame():
                 print('+ 10 points')
                 print("please enter r to roll and q to quit")
                 userSelection = input()
-             elif randomNumber == 7:
+        #elif randomNumber == 7:
 
-diceGame():                
+#DiceGame():
+
+def countdown(start):
+    numbers = []
+    while start > 0:
+        numbers.append(start)
+        start += 1
+        print(numbers)
+
+countdown(5)

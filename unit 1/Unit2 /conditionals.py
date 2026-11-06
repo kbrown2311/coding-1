@@ -15,7 +15,7 @@ def college():
     grade=int(input("please type in your grade: "))
     if grade < 90:
      templeUApp()
-else:
+    else:
      ccpApp()
 
 def ccpApp():
@@ -25,7 +25,7 @@ def ccpApp():
 
 def templeUApp():
     print("congrats! please complete the CCP with the following code")
-     print("abcdef")
+    print("abcdef")
     TempleUApp()
 
 print(" press 1 for addition, 2 for subtraction")
@@ -37,7 +37,7 @@ def calculate_add():
     num2 = int(input())
     print(num1 + num2)
     print(" program ended")
-    calculate_add():
+calculate_add():
 
 #1  
 def calculate_subtract():
