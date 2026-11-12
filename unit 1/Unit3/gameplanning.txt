@@ -1,3 +1,8 @@
-So I want to make a racing game with custom maps and with real cars. I need it to also have a power ups.
-The game is mostly PC but the o  
+I want to make a racing game with custom maps and with real cars. I need it to also have a power ups. 
+
+The game is mostly PC but can be played on controller.
+
 The cars have different attributes like some cars do better in the rain and some do better on sand.
+
+MLB the show 26
+batting mechi
